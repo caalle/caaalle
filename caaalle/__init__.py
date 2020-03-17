@@ -17,3 +17,15 @@ def add(initial: int=0, number: int=0) -> int:
     :rtype: int
     """
     return initial + number
+
+
+def multiply(initial: int=0, number: int=0) -> int:
+    """Return product of *intial* and *number*.
+    :param initial: Initial value.
+    :type initial: int
+    :param number: Value to add to initial.
+    :type number: int
+    :return: Product of initial and number.
+    :rtype: int
+    """
+    return initial * number
