@@ -40,7 +40,7 @@ setup(
     url=_url,
     packages=['caaalle'],
     include_package_data=True,
-    python_requires=">=3.8.*",
+    python_requires=">=3.5.*",
     install_requires=[],
     license=_license,
     zip_safe=False,
