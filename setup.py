@@ -2,6 +2,7 @@
 
 import codecs
 import os
+import re
 from setuptools import setup
 
 with open('README.md', 'r') as f:
