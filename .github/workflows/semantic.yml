@@ -26,6 +26,7 @@ jobs:
       run: |
         pipenv run pytest
   release:
+    needs: test
     runs-on: ubuntu-latest
 
     steps:
