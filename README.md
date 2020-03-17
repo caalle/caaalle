@@ -2,6 +2,7 @@
 
 [![image](https://img.shields.io/pypi/v/caaalle.svg)](https://pypi.org/project/caaalle/)
 [![Build Status](https://github.com/caalle/caaalle/workflows/Release/badge.svg)](https://github.com/caalle/caaalle/workflows/Release/badge.svg)
+[![Documentation Status](https://readthedocs.org/projects/caaalle/badge/?version=latest)](https://caaalle.readthedocs.io/en/latest/?badge=latest)
 
 ## Installing
 
