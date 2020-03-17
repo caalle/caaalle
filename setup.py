@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import codecs
 import os
 from setuptools import setup
 
