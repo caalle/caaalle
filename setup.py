@@ -44,9 +44,6 @@ setup(
     install_requires=[],
     license=_license,
     zip_safe=False,
-    entry_points={
-        'caaalle': ['caaalle=caaalle.entry_points:main'],
-    },
     classifiers=[
         'Intended Audience :: Developers',
         'Programming Language :: Python :: 3.8',
