@@ -5,7 +5,7 @@ caaalle
 The caaalle package.
 """
 
-__version__ = "2.1.0"
+__version__ = "2.1.1"
 
 def add(initial: int=0, number: int=0) -> int:
     """Return sum of *intial* and *number*.
