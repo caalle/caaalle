@@ -1,7 +1,7 @@
 # caaalle
 
 [![image](https://img.shields.io/pypi/v/caaalle.svg)](https://pypi.org/project/caaalle/)
-[![Build Status](https://github.com/caalle/caaalle/workflows/Upload%20Python%20Package/badge.svg)](https://github.com/caalle/caaalle/workflows/Upload%20Python%20Package/badge.svg)
+[![Build Status](https://github.com/caalle/caaalle/workflows/Release/badge.svg)](https://github.com/caalle/caaalle/workflows/Release/badge.svg)
 
 ## Installing
 
