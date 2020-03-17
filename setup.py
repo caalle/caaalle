@@ -33,7 +33,7 @@ setup(
     description=_description,
     long_description=readme,
     long_description_content_type='text/markdown',
-    version=find_version("package", "__init__.py"),
+    version=find_version("caaalle", "__init__.py"),
     author=_author,
     author_email=_author_email,
     url=_url,
