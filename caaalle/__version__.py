@@ -2,13 +2,13 @@
 __version__.py
 ~~~~~~~~~~~~~~
 
-Information about the current version of the py-package-template package.
+Information about the current version of the caaalle package.
 """
 
-__title__ = 'py-package-template'
-__description__ = 'py-package-template - Package Template Project Generator'
-__version__ = '0.2.0'
-__author__ = 'Alex Ioannides'
-__author_email__ = 'alex.ioannides@yahoo.co.uk'
+__title__ = 'caaalle'
+__description__ = 'caaalle'
+__version__ = '0.0.0'
+__author__ = 'Carl Larsson'
+__author_email__ = 'n/a'
 __license__ = 'Apache 2.0'
-__url__ = 'https://github.com/AlexIoannides/py-package-template'
+__url__ = 'https://github.com/caalle/caaalle'
